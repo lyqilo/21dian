@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "choumashuzi_01.png",
+	"frame": {"x":83,"y":39,"w":25,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":35},
+	"sourceSize": {"w":25,"h":35}
+},
+{
+	"filename": "choumashuzi_02.png",
+	"frame": {"x":56,"y":76,"w":25,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":35},
+	"sourceSize": {"w":25,"h":35}
+},
+{
+	"filename": "choumashuzi_03.png",
+	"frame": {"x":56,"y":39,"w":25,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":35},
+	"sourceSize": {"w":25,"h":35}
+},
+{
+	"filename": "choumashuzi_04.png",
+	"frame": {"x":96,"y":2,"w":25,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":35},
+	"sourceSize": {"w":25,"h":35}
+},
+{
+	"filename": "choumashuzi_05.png",
+	"frame": {"x":69,"y":2,"w":25,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":35},
+	"sourceSize": {"w":25,"h":35}
+},
+{
+	"filename": "choumashuzi_06.png",
+	"frame": {"x":29,"y":79,"w":25,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":35},
+	"sourceSize": {"w":25,"h":35}
+},
+{
+	"filename": "choumashuzi_07.png",
+	"frame": {"x":42,"y":2,"w":25,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":35},
+	"sourceSize": {"w":25,"h":35}
+},
+{
+	"filename": "choumashuzi_08.png",
+	"frame": {"x":29,"y":42,"w":25,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":35},
+	"sourceSize": {"w":25,"h":35}
+},
+{
+	"filename": "choumashuzi_09.png",
+	"frame": {"x":2,"y":79,"w":25,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":35},
+	"sourceSize": {"w":25,"h":35}
+},
+{
+	"filename": "choumashuzi_10.png",
+	"frame": {"x":2,"y":42,"w":25,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":35},
+	"sourceSize": {"w":25,"h":35}
+},
+{
+	"filename": "wan.png",
+	"frame": {"x":2,"y":2,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "123.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b2d63cc308bc51032a1ba40c143b5663$"
+}
+}
