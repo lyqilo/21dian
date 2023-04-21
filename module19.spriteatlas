@@ -79,7 +79,7 @@ SpriteAtlas:
     secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
-    - {fileID: 102900000, guid: 2e323edf6236d2c44b59a63426c17b1d, type: 3}
+    - {fileID: 102900000, guid: bc8003eba41a0264b837a3cce3065f84, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -174,6 +174,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 677e6d55edb24964492b5194e5819ec1, type: 3}
   - {fileID: 21300000, guid: ac2f2775507ded84db53024cb9f2c7eb, type: 3}
   - {fileID: 21300000, guid: c3846485f52a9c94fbce6ad17f93d93d, type: 3}
+  - {fileID: 21300000, guid: ed142585c22300d4f8ee4a235bc77d28, type: 3}
   - {fileID: 21300000, guid: e55a0c854047015448e1dd939bf8b00f, type: 3}
   - {fileID: 21300000, guid: b59601a5fec6ad349b4c71f49217f995, type: 3}
   - {fileID: 21300000, guid: a99377b5d582d6b469126bd116b1ebfa, type: 3}
@@ -212,6 +213,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 44ae6977004fc5c458435daf85781972, type: 3}
   - {fileID: 21300000, guid: af0cfb8755a73724f9fb21f977fcc25f, type: 3}
   - {fileID: 21300000, guid: 5ea44c87f46a4c041a63df88a6146744, type: 3}
+  - {fileID: 21300000, guid: 80793e97c116c484b9714fe89937df38, type: 3}
   - {fileID: 21300000, guid: f027dfa72b5297c45a564edf6d81aec3, type: 3}
   - {fileID: 21300000, guid: a3923ec7ac5f1034799719887646186a, type: 3}
   - {fileID: 21300000, guid: fb42e7087241d1446b72e1e5a7f3130a, type: 3}
@@ -448,6 +450,7 @@ SpriteAtlas:
   - poker00_45
   - hjk_an_zj
   - hjk_an_tc
+  - zi19
   - poker00_33
   - poker00_15
   - hjk_cm_lan
@@ -486,6 +489,7 @@ SpriteAtlas:
   - poker00_46
   - hjk_an_hong
   - tishikuang02
+  - zi18
   - "hjk_an_bxj - \u526F\u672C"
   - poker00_53
   - zhuozidi02
